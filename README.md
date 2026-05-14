@@ -1,2 +1,14 @@
-# woocommerce-checkout-diagnostics
-WooCommerce support diagnostics plugin for troubleshooting checkout and payment configuration issues.
+# WooCommerce Checkout Diagnostics
+
+A lightweight WooCommerce support diagnostics plugin designed to help troubleshoot checkout and payment configuration issues.
+
+## Features
+
+- WooCommerce status checks
+- SSL detection
+- Store currency visibility
+- Guest checkout diagnostics
+
+## Purpose
+
+Built to simulate common WooCommerce troubleshooting workflows used in technical customer support environments.
